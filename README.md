@@ -1,4 +1,4 @@
-# DevPost
+# myTasks
 
 
 Uma simples lista de tarefas desenvolvida para fins de prática e estudo da linguagem TypeScript. 
